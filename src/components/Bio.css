@@ -1,0 +1,12 @@
+.bio {
+    margin-left: 25px;
+    grid-area: bio;
+}
+
+.bio-links {
+    font-size: 37px;
+}
+.bio-links img{
+    width: 24px;
+    margin: 0px 8px;
+}
