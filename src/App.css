@@ -1,7 +1,7 @@
 .app {
   padding: 24px;
   display: grid;
-  grid-template-areas: "avatar bio";
+  grid-template-areas: "avatar bio" "project project" "skills contacts";
   grid-template-columns: 300px auto;
 }
 
